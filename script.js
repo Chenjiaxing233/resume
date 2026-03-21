@@ -25,6 +25,11 @@ const resumeData = {
       title: '复杂业务场景实战',
       description:
         '拥有 ERP、中后台管理系统、开放平台、App、小程序、DevOps 平台与 AI 标注系统等多类项目经验。'
+    },
+    {
+      title: 'AI 协作开发能力',
+      description:
+        '熟练使用 Claude、Codex 等 AI 工具辅助方案设计、代码生成、问题排查与效率优化，能够将 AI 能力稳定融入日常研发流程，提升交付速度与方案质量。'
     }
   ],
   skills: [
