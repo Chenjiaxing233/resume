@@ -50,7 +50,7 @@ const resumeData = {
         "Vite / Webpack",
         "Node.js / Express",
         "Monaco Editor",
-        "Puppeteer / VSCode Extension API",
+        "Puppeteer / VSCode Extensions",
       ],
     },
     {
